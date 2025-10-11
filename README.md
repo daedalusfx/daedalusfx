@@ -1,4 +1,4 @@
-# Daedalus | Open Source Finance Software Developer
+# Daedalus | Finance Software Developer
 
 ## 🚀 Welcome to My GitHub Profile!
 
